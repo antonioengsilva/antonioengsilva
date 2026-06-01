@@ -41,6 +41,7 @@ Tenho forte atuação em logística multiestados, Supply Chain e Business Intell
 ### 📈 Análise & Dashboards
 - **[Analise_dados_com_streamlit](https://github.com/antonioengsilva/1.Analise_dados_com_streamlit)** — Análise de Dados com Pandas e Streamlit
 - **[Painel-de-RH-com-Power-BI](https://github.com/antonioengsilva/6.Painel-de-RH-com-Power-BI)** — Dashboard de RH com KPIs operacionais
+- **[Painel-de-SaaS-com-Gestão-de-Assinatura](https://github.com/antonioengsilva/Sass_Gestao_assinatura)** — Dashboard de Gerenciador de Assinatura com com Pandas e Streamlit
 
 ### ⚙️ Automação & Ferramentas
 - **[Formulario_com_python_Excel](https://github.com/antonioengsilva/2.Formulario_com_python_Excel)** — Formulário com Tkinter integrado ao Excel
